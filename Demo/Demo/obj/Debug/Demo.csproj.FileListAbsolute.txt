@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\HP\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\HP\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.pdb
