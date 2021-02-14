@@ -1,0 +1,7 @@
+E:\C#\Lab_4_task_1\Lab_4_task_1\obj\Debug\Lab_4_task_1.csprojAssemblyReference.cache
+E:\C#\Lab_4_task_1\Lab_4_task_1\obj\Debug\Lab_4_task_1.csproj.CoreCompileInputs.cache
+E:\C#\Lab_4_task_1\Lab_4_task_1\bin\Debug\Lab_4_task_1.exe.config
+E:\C#\Lab_4_task_1\Lab_4_task_1\bin\Debug\Lab_4_task_1.exe
+E:\C#\Lab_4_task_1\Lab_4_task_1\bin\Debug\Lab_4_task_1.pdb
+E:\C#\Lab_4_task_1\Lab_4_task_1\obj\Debug\Lab_4_task_1.exe
+E:\C#\Lab_4_task_1\Lab_4_task_1\obj\Debug\Lab_4_task_1.pdb
